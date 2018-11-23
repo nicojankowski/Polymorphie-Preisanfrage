@@ -1,0 +1,7 @@
+c:\users\a13a3ae\source\repos\Polymorphie Preisanfrage\Polymorphie Preisanfrage\obj\Debug\Polymorphie Preisanfrage.csprojResolveAssemblyReference.cache
+c:\users\a13a3ae\source\repos\Polymorphie Preisanfrage\Polymorphie Preisanfrage\obj\Debug\Polymorphie Preisanfrage.csproj.CoreCompileInputs.cache
+c:\users\a13a3ae\source\repos\Polymorphie Preisanfrage\Polymorphie Preisanfrage\bin\Debug\Polymorphie Preisanfrage.exe.config
+c:\users\a13a3ae\source\repos\Polymorphie Preisanfrage\Polymorphie Preisanfrage\bin\Debug\Polymorphie Preisanfrage.exe
+c:\users\a13a3ae\source\repos\Polymorphie Preisanfrage\Polymorphie Preisanfrage\bin\Debug\Polymorphie Preisanfrage.pdb
+c:\users\a13a3ae\source\repos\Polymorphie Preisanfrage\Polymorphie Preisanfrage\obj\Debug\Polymorphie Preisanfrage.exe
+c:\users\a13a3ae\source\repos\Polymorphie Preisanfrage\Polymorphie Preisanfrage\obj\Debug\Polymorphie Preisanfrage.pdb
